@@ -1,0 +1,6 @@
+if SHIELD_DACTYL_SINGLE
+
+config ZMK_KEYBOARD_NAME
+    default "dactyl_single"
+
+endif # SHIELD_DACTYL_SINGLE
